@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World"
+      value: "World,this is the site which we're lokking for"
     };
   }
 };
