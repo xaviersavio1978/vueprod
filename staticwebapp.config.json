@@ -13,11 +13,10 @@
     "mlcmetlifecarekiwi-b7gefyh0gtg2ahf5.z01.azurefd.net"
   ]
 },
-    {
     "route": "/members",
     "allowedRoles": ["authenticated, members"],
     "headers": {
         "Cache-Control": "no-store"
     }
-}
+
 }
