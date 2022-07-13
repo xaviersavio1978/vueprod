@@ -10,7 +10,8 @@
     "X-Azure-FDID" : "6619e4f5-665b-464b-a133-1498cabccfef"
   },
   "allowedForwardedHosts": [
-    "mlcmetlifecarekiwi-b7gefyh0gtg2ahf5.z01.azurefd.net"
+      "xaviersavio.com",
+      "www.xaviersavio.com"
   ]
 },
     "route": "/members",
