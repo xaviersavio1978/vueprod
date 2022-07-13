@@ -7,10 +7,10 @@
 },
     "forwardingGateway": {
   "requiredHeaders": {
-    "X-Azure-FDID" : "<YOUR-FRONT-DOOR-ID>"
+    "X-Azure-FDID" : "6619e4f5-665b-464b-a133-1498cabccfef"
   },
   "allowedForwardedHosts": [
-    "my-sitename.azurefd.net"
+    "mlcmetlifecarekiwi-b7gefyh0gtg2ahf5.z01.azurefd.net"
   ]
 },
     {
