@@ -13,10 +13,5 @@
     "X-Azure-FDID" : "876a9504-7956-4b9d-a612-0a1d40a90b2a"
   },
   "allowedForwardedHosts": ["staticwebsite-ejd5fvb2etfqeecp.z01.azurefd.net","xaviersavio.com"]
-},
-  "route": "/members",
-    "allowedRoles": ["authenticated, members"],
-    "headers": {
-        "Cache-Control": "no-store"
-    }
+}
 }
