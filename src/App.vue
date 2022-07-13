@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World,this is just a test siter"
+      value: "World,this is just a test site"
     };
   }
 };
