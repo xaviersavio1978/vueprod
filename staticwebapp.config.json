@@ -3,11 +3,11 @@
         "rewrite": "/index.html"
     },
     "networking": {
-  "allowedIpRanges": ["AzureFrontDoor.Backend"]
+      "allowedIpRanges": ["AzureFrontDoor.Backend"]
 },
-    "forwardingGateway": {
-  "requiredHeaders": {
-    "X-Azure-FDID" : "6619e4f5-665b-464b-a133-1498cabccfef"
+   "forwardingGateway": {
+       "requiredHeaders": {
+          "X-Azure-FDID" : "6619e4f5-665b-464b-a133-1498cabccfef"
   },
   "allowedForwardedHosts": [
       "xaviersavio.com",
